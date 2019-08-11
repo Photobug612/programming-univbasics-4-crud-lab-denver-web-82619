@@ -17,8 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  coding_stuff = ("a","b")
-  coding_stuff.shift
+  
 end
 
 def remove_element_from_start_of_array(array)
