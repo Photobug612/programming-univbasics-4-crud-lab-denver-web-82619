@@ -17,7 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  lists_in_ruby = ["hash", "arrays!"]
+  "arrays!" = lists_in_ruby.shift
 end
 
 def remove_element_from_start_of_array(array)
