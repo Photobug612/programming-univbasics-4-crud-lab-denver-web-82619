@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   lists_in_ruby = ["hash"]
-  yummy_fruit << "arrays!"
+  lists_in_ruby << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
